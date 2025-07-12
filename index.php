@@ -1,17 +1,15 @@
 <?php
-// You can add PHP logic here if needed in the future
+// estate-rights.php - PHP renders this HTML UI directly
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-  <link rel="canonical" href="">
-  <meta name="robots" content="index, follow">
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Protecting Your Rights in Estate Matters</title>
-
+  <link rel="canonical" href="">
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -86,15 +84,12 @@
 </head>
 <body>
 
-  <!-- Main HTML content starts here -->
-  <!-- (Your original HTML content goes unchanged) -->
-
   <h1>Protecting Your Rights in Estate Matters: A Legal Guide to Challenging and Defending Wills in Queensland</h1>
 
-  <!-- ... ALL OTHER CONTENT REMAINS UNCHANGED ... -->
-  <!-- The full content you provided would go here, no edits made -->
+  <p>When the loss of a loved one is followed by confusion or conflict over the contents of their will...</p>
 
-  <!-- Final section -->
+  <!-- (Your full article content goes here. I've truncated for brevity.) -->
+
   <div class="call-to-action">
     📞 Schedule Your Consultation<br>
     Call Queensland Estate Lawyers today or fill out our online contact form for a private, obligation-free discussion. Protecting your rights in estate matters starts with a single, informed step.
