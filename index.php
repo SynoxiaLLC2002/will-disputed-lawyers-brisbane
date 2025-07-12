@@ -1,7 +1,5 @@
 <?php
-// estate-rights.php - PHP renders this HTML UI directly
-?>
-
+echo <<<HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -84,16 +82,20 @@
 </head>
 <body>
 
-  <h1>Protecting Your Rights in Estate Matters: A Legal Guide to Challenging and Defending Wills in Queensland</h1>
+<h1>Protecting Your Rights in Estate Matters: A Legal Guide to Challenging and Defending Wills in Queensland</h1>
 
-  <p>When the loss of a loved one is followed by confusion or conflict over the contents of their will...</p>
+<p>When the loss of a loved one is followed by confusion or conflict over the contents of their will, it can be devastating. Emotions run high, and what should be a time of mourning and reflection can quickly turn into one of legal and personal uncertainty. Whether you feel the will is invalid, unfair, or doesn’t reflect the deceased’s true intentions, there are legal avenues you can take.</p>
 
-  <!-- (Your full article content goes here. I've truncated for brevity.) -->
+<p>At Queensland Estate Lawyers, we provide clear and expert support for individuals seeking to challenge a will—or defend one. Our lawyers specialise in contested estate matters and help clients throughout Brisbane and Queensland make informed decisions about their rights.</p>
 
-  <div class="call-to-action">
-    📞 Schedule Your Consultation<br>
-    Call Queensland Estate Lawyers today or fill out our online contact form for a private, obligation-free discussion. Protecting your rights in estate matters starts with a single, informed step.
-  </div>
+<!-- TRUNCATED for brevity — insert rest of your HTML content here -->
+
+<div class="call-to-action">
+  📞 Schedule Your Consultation<br>
+  Call Queensland Estate Lawyers today or fill out our online contact form for a private, obligation-free discussion. Protecting your rights in estate matters starts with a single, informed step.
+</div>
 
 </body>
 </html>
+HTML;
+?>
